@@ -14,13 +14,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/spring-in-vertx/src/test/resources/cluster.xml" />
-    <file url="file://$PROJECT_DIR$/spring-in-vertx/src/test/resources/local-postgres.properties" />
-    <file url="file://$PROJECT_DIR$/spring-in-vertx/src/test/resources/log4j.properties" />
-    <file url="file://$PROJECT_DIR$/spring-in-vertx/src/test/resources/test.properties" />
-    <file url="file://$PROJECT_DIR$/spring-in-vertx/src/test/resources/vertx.properties" />
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
