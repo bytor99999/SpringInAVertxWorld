@@ -1,0 +1,4 @@
+{
+    "configFiles": ["META-INF/spring/spring-in-vertx-context.xml"],
+    "configType":"xml"
+}
