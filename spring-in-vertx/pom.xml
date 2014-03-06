@@ -38,7 +38,7 @@
     <!--Dependency versions-->
     <mod-spring-appcontext.version>1.0.0-RELEASE</mod-spring-appcontext.version>
 
-    <vertx.version>2.0.1-final</vertx.version>
+    <vertx.version>2.0.2-final</vertx.version>
     <vertx.testtools.version>2.0.1-final</vertx.testtools.version>
     <junit.version>4.11</junit.version>
 

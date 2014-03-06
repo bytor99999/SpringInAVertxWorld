@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="vertx-spring-mvc-demo:war">
-    <output-path>$PROJECT_DIR$/vertx-embedded-in-spring/target</output-path>
-    <root id="archive" name="vertx-spring-mvc-demo-Unknown.war">
-      <element id="artifact" artifact-name="vertx-spring-mvc-demo:war exploded" />
-    </root>
-  </artifact>
-</component>

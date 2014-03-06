@@ -12,7 +12,7 @@
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     
-    <vertx.version>2.0.1-final</vertx.version>
+    <vertx.version>2.0.2-final</vertx.version>
     <vertx.testtools.version>2.0.3-final</vertx.testtools.version>
     
     <asm.version>4.0</asm.version>
@@ -29,8 +29,6 @@
 	<javax.validation.version>1.0.0.GA</javax.validation.version>
 	<javax.persistence.version>1.0</javax.persistence.version>
 	<jstl.version>1.2</jstl.version>
-	<log4j.version>1.2.16</log4j.version>
-	<slf4j.version>1.6.2</slf4j.version>
 	<servlet.version>3.1.0</servlet.version>
 	<spring.version>3.2.7.RELEASE</spring.version>
 
@@ -51,19 +49,6 @@
             <version>1.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>${slf4j.version}</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>jcl-over-slf4j</artifactId>
-            <version>${slf4j.version}</version>
-            <scope>compile</scope>
-        </dependency>
-        
         <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjrt</artifactId>

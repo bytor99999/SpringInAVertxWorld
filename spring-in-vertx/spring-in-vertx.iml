@@ -18,8 +18,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="core" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.2" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.6.2" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.7.1" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.7.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:3.2.7.RELEASE" level="project" />
@@ -33,13 +31,14 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:3.2.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:3.2.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: javax.annotation:jsr250-api:1.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: io.vertx:vertx-core:2.0.1-final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.vertx:vertx-core:2.0.2-final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:slf4j-api:1.6.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-all:4.0.10.Final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-core:2.2.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: io.netty:netty-all:4.0.7.Final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.hazelcast:hazelcast:2.6" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: io.vertx:vertx-platform:2.0.1-final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: io.vertx:vertx-platform:2.0.2-final" level="project" />
     <orderEntry type="library" name="Maven: bytor99999:mod-spring-appcontext:1.0.0-RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: io.vertx:testtools:2.0.1-final" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
