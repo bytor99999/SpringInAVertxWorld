@@ -2,105 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="079e530a-2bfe-4430-add9-e93903a06868" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vertx-talk.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_2_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_core_2_0_1_final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_platform_2_0_1_final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/artifacts/vertx_embedded_in_spring_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/artifacts/vertx_embedded_in_spring_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/artifacts/vertx_spring_mvc_demo_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/artifacts/vertx_spring_mvc_demo_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__bytor99999_mod_spring_appcontext_1_0_0_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__com_hazelcast_hazelcast_2_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__io_netty_netty_all_4_0_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__io_vertx_testtools_2_0_1_final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__io_vertx_vertx_core_2_0_1_final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__io_vertx_vertx_platform_2_0_1_final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_el_el_api_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_aop_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_beans_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_context_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_core_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_expression_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_test_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_tx_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_web_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/cluster.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hold/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/META-INF/spring/spring-in-vertx-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/StartupVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/StartupVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/conf/spring.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aspectjrt-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aspectjweaver-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/jcl-over-slf4j-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/jsr250-api-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/mod-spring-appcontext-1.0.0-RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/slf4j-api-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-aop-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-aspects-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-beans-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-context-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-core-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-expression-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-test-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-tx-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/mods/com.perfectworldprogramming~spring-in-vertx~1.0/mod.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java" afterPath="$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringInAVertxWorld.iml" afterPath="$PROJECT_DIR$/SpringInAVertxWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java" afterPath="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/core.iml" afterPath="$PROJECT_DIR$/core/core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/pom.xml" afterPath="$PROJECT_DIR$/core/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-in-vertx/pom.xml" afterPath="$PROJECT_DIR$/spring-in-vertx/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" afterPath="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-in-vertx/spring-in-vertx.iml" afterPath="$PROJECT_DIR$/spring-in-vertx/spring-in-vertx.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/vertx-embedded-in-spring.iml" afterPath="$PROJECT_DIR$/vertx-embedded-in-spring/vertx-embedded-in-spring.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/vertx_embedded_in_spring_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/vertx_embedded_in_spring_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vertx-talk.iws" />
@@ -186,15 +87,7 @@
         <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/java/com/perfectworldprogramming/demo/verticle/ChatVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="96" column="36" selection-start="3847" selection-end="3847" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="2034">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2849#3321#0" expanded="true" />
-                <element signature="e#3072#3293#0" expanded="true" />
-                <element signature="e#3274#3275#0" expanded="true" />
-                <element signature="e#3310#3311#0" expanded="true" />
-                <element signature="e#3652#3811#0" expanded="true" />
-                <element signature="e#3800#3801#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -202,10 +95,8 @@
       <file leaf-file-name="StartupVerticle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/java/com/perfectworldprogramming/demo/verticle/StartupVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="2" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="540">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -213,10 +104,8 @@
       <file leaf-file-name="ChatHandler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/vertx/ChatHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="16" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="810">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -230,19 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="23" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="4320">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="31" selection-start="599" selection-end="599" vertical-scroll-proportion="0.7070218" vertical-offset="464" max-vertical-offset="1206">
+            <state line="24" column="42" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.65217394" vertical-offset="162" max-vertical-offset="4320">
               <folding />
             </state>
           </provider>
@@ -251,7 +131,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-in-vertx/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="46" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0" vertical-offset="1782" max-vertical-offset="5274">
+            <state line="40" column="46" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="5274">
               <folding />
             </state>
           </provider>
@@ -260,7 +140,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.0" vertical-offset="2358" max-vertical-offset="2916">
+            <state line="33" column="0" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2916">
               <folding />
             </state>
           </provider>
@@ -269,13 +149,8 @@
       <file leaf-file-name="SpringApplicationContextHolder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mod-spring-appcontext/src/main/java/com/perfectworldprogramming/mod/spring/app/context/SpringApplicationContextHolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="23" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="2664">
-              <folding>
-                <element signature="e#1560#1561#0" expanded="false" />
-                <element signature="e#1618#1619#0" expanded="false" />
-                <element signature="e#6575#6576#0" expanded="false" />
-                <element signature="e#6616#6617#0" expanded="false" />
-              </folding>
+            <state line="56" column="23" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="2736">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -292,10 +167,8 @@
       <file leaf-file-name="ChatController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/controller/ChatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="486">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -303,10 +176,8 @@
       <file leaf-file-name="VertxServletContextListener.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="19" column="0" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="558">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -314,10 +185,8 @@
       <file leaf-file-name="ChatServiceImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="540">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -325,7 +194,7 @@
       <file leaf-file-name="ChatService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="31" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+            <state line="4" column="31" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="288">
               <folding />
             </state>
           </provider>
@@ -335,9 +204,7 @@
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="24" column="41" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="630">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -401,8 +268,8 @@
         <option value="$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java" />
         <option value="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
-        <option value="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" />
       </list>
     </option>
   </component>
@@ -476,655 +343,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
+              <option name="myItemId" value="SpringInAVertxWorld" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
+              <option name="myItemId" value="SpringInAVertxWorld" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="perfectworldprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-embedded-in-spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="perfectworldprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verticle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-in-vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assembly" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="perfectworldprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="perfectworldprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vertx-talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringInAVertxWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="perfectworldprogramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="configuration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1471,8 +700,8 @@
     </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Maven.RunChatMVC" />
-      <item index="1" class="java.lang.String" itemvalue="Maven.spring-in-vertx [vertx:runModIDEA]" />
-      <item index="2" class="java.lang.String" itemvalue="Remote.DebugExternalVertx" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.DebugExternalVertx" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.spring-in-vertx [vertx:runModIDEA]" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -1492,6 +721,7 @@
       <updated>1393722939522</updated>
       <workItem from="1393722942755" duration="38036000" />
       <workItem from="1394052877162" duration="13763000" />
+      <workItem from="1394150284515" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="Commit of many changes so I don't lose them">
       <created>1393877650930</created>
@@ -1517,44 +747,48 @@
       <created>1394146885205</created>
       <updated>1394146885205</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Deleting files that should have been there.&#10;">
+      <created>1394150325021</created>
+      <updated>1394150325021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51799000" />
+    <option name="totallyTimeSpent" value="52451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4878587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48675495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7571744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1892552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7571744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1590,9 +824,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/headers.jsp">
+    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="70" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="504">
+        <state line="24" column="45" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="1512">
           <folding />
         </state>
       </provider>
@@ -1600,18 +834,54 @@
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/controller/ChatController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="486">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="41" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/headers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="70" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/controller/ChatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="486">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="34" selection-start="488" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="612">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1625,9 +895,7 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="5" selection-start="710" selection-end="710" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="576">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1643,11 +911,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="878">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-in-vertx/spring-in-vertx.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="832" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/chat-servlet.xml">
@@ -1666,23 +929,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/nav/navigation.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="80" selection-start="896" selection-end="896" vertical-scroll-proportion="0.58536583" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
+        <state line="16" column="80" selection-start="896" selection-end="896" vertical-scroll-proportion="0.58536583" vertical-offset="0" max-vertical-offset="558" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="35" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="846">
-          <folding />
-        </state>
+        <state line="31" column="35" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="846" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/assembly/mod.xml">
@@ -1748,16 +1005,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/headers.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="70" selection-start="706" selection-end="706" vertical-scroll-proportion="0.40449437" vertical-offset="0" max-vertical-offset="534">
-          <folding />
-        </state>
+        <state line="12" column="70" selection-start="706" selection-end="706" vertical-scroll-proportion="0.40449437" vertical-offset="0" max-vertical-offset="534" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/forms/chatForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="14" selection-start="528" selection-end="528" vertical-scroll-proportion="0.505618" vertical-offset="0" max-vertical-offset="534">
-          <folding />
-        </state>
+        <state line="15" column="14" selection-start="528" selection-end="528" vertical-scroll-proportion="0.505618" vertical-offset="0" max-vertical-offset="534" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/applicationContext.xml">
@@ -1769,9 +1022,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/2.0.1-final/vertx-core-2.0.1-final.jar!/org/vertx/java/core/impl/DefaultVertx.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="45" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.3480663" vertical-offset="297" max-vertical-offset="1962">
-          <folding />
-        </state>
+        <state line="28" column="45" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.3480663" vertical-offset="297" max-vertical-offset="1962" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/js/common.js">
@@ -1791,12 +1042,7 @@
     <entry file="file://$PROJECT_DIR$/../mod-spring-appcontext/src/main/java/com/perfectworldprogramming/mod/spring/app/context/SpringApplicationContextHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="23" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="2664">
-          <folding>
-            <element signature="e#1560#1561#0" expanded="false" />
-            <element signature="e#1618#1619#0" expanded="false" />
-            <element signature="e#6575#6576#0" expanded="false" />
-            <element signature="e#6616#6617#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1817,9 +1063,7 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="41" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1833,60 +1077,42 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/vertx/ChatHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/java/com/perfectworldprogramming/demo/verticle/ChatVerticle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="36" selection-start="3847" selection-end="3847" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2849#3321#0" expanded="true" />
-            <element signature="e#3072#3293#0" expanded="true" />
-            <element signature="e#3274#3275#0" expanded="true" />
-            <element signature="e#3310#3311#0" expanded="true" />
-            <element signature="e#3652#3811#0" expanded="true" />
-            <element signature="e#3800#3801#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/java/com/perfectworldprogramming/demo/verticle/StartupVerticle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/controller/ChatController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1904,16 +1130,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="4320">
+        <state line="42" column="31" selection-start="599" selection-end="599" vertical-scroll-proportion="0.49941656" vertical-offset="328" max-vertical-offset="1206">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="31" selection-start="599" selection-end="599" vertical-scroll-proportion="0.7070218" vertical-offset="464" max-vertical-offset="1206">
+        <state line="24" column="42" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.65217394" vertical-offset="162" max-vertical-offset="4320">
           <folding />
         </state>
       </provider>
