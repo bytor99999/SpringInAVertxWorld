@@ -2,132 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="079e530a-2bfe-4430-add9-e93903a06868" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-in-vertx/src/main/resources/cluster.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/resources/cluster.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/perfectworldprogramming/configuration/VertxConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/perfectworldprogramming/services/ChatService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/perfectworldprogramming/services/ChatServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/classes/com/perfectworldprogramming/vertx/ChatHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/META-INF/spring/spring-in-vertx-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/ChatVerticle$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/ChatVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/ChatVerticle$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/ChatVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/StartupVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/com/perfectworldprogramming/demo/verticle/StartupVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/conf/spring.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/classes/mod.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/aspectjrt-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/aspectjweaver-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/jcl-over-slf4j-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/jsr250-api-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/mod-spring-appcontext-1.0.0-RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/slf4j-api-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-aop-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-aspects-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-beans-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-context-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-core-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-expression-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-test-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/dependencies/spring-tx-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/failsafe-reports/failsafe-summary.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/META-INF/spring/spring-in-vertx-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/ChatVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/StartupVerticle$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/com/perfectworldprogramming/demo/verticle/StartupVerticle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/conf/spring.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aspectjrt-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/aspectjweaver-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/jcl-over-slf4j-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/jsr250-api-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/mod-spring-appcontext-1.0.0-RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/slf4j-api-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-aop-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-aspects-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-beans-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-context-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-core-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-expression-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-test-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/lib/spring-tx-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/mods/com.perfectworldprogramming~spring-in-vertx~1.0/mod.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/site/surefire-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/spring-in-vertx-1.0-mod.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-in-vertx/target/spring-in-vertx-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/classes/com/perfectworldprogramming/controller/ChatController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/classes/com/perfectworldprogramming/web/VertxServletContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/chat-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/classes/com/perfectworldprogramming/controller/ChatController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/classes/com/perfectworldprogramming/web/VertxServletContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/i18n/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/aspectjrt-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/aspectjweaver-1.7.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/hazelcast-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/hibernate-validator-4.2.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jackson-annotations-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jackson-core-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jackson-databind-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jcl-over-slf4j-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/joda-time-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jsr250-api-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jstl-api-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/jstl-impl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/netty-all-4.0.7.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/servlet-api-2.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/slf4j-api-1.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-aop-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-aspects-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-beans-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-context-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-core-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-expression-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-test-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-tx-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-web-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/spring-webmvc-3.2.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/validation-api-1.0.0.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/vertx-core-2.0.1-final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/lib/vertx-platform-2.0.1-final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/views/forms/chatForm.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/views/headers.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/views/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/views/nav/navigation.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/crossdomain.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/img/overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/js/vertxbus.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/styles/bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/styles/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/target/vertx-embedded-in-spring-1.0/styles/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/pom.xml" afterPath="$PROJECT_DIR$/core/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" afterPath="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="vertx-talk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -256,7 +131,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="31" selection-start="599" selection-end="599" vertical-scroll-proportion="0.9782609" vertical-offset="351" max-vertical-offset="1206">
+            <state line="50" column="5" selection-start="647" selection-end="647" vertical-scroll-proportion="0.4347826" vertical-offset="720" max-vertical-offset="1224">
               <folding />
             </state>
           </provider>
@@ -410,10 +285,11 @@
         <option value="$PROJECT_DIR$/spring-in-vertx/pom.xml" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/services/ChatServiceImpl.java" />
         <option value="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/vertx-embedded-in-spring/src/main/resources/cluster.xml" />
         <option value="$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -1160,7 +1036,7 @@
       <updated>1393722939522</updated>
       <workItem from="1393722942755" duration="38036000" />
       <workItem from="1394052877162" duration="13763000" />
-      <workItem from="1394150284515" duration="7041000" />
+      <workItem from="1394150284515" duration="7331000" />
     </task>
     <task id="LOCAL-00001" summary="Commit of many changes so I don't lose them">
       <created>1393877650930</created>
@@ -1194,11 +1070,19 @@
       <created>1394151099411</created>
       <updated>1394151099411</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Trying out more cluster.xml stuff to try to get it to work. No luck yet. Also target directories were getting checked in. This deletes them, but I think the .gitignore is being ignored">
+      <created>1394538389492</created>
+      <updated>1394538389492</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removing the .idea directory from Git">
+      <created>1394538611900</created>
+      <updated>1394538611900</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58840000" />
+    <option name="totallyTimeSpent" value="59130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
@@ -1255,7 +1139,9 @@
     <MESSAGE value="Still not sending to the eventBus in the Spring MVC App.&#10;" />
     <MESSAGE value="Deleting files that should have been there." />
     <MESSAGE value="Deleting files that should have been there.&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleting files that should have been there.&#10;" />
+    <MESSAGE value="Trying out more cluster.xml stuff to try to get it to work. No luck yet. Also target directories were getting checked in. This deletes them, but I think the .gitignore is being ignored" />
+    <MESSAGE value="Removing the .idea directory from Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing the .idea directory from Git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1267,13 +1153,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/controller/ChatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="486">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/java/com/perfectworldprogramming/web/VertxServletContextListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="558">
@@ -1589,7 +1468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="31" selection-start="599" selection-end="599" vertical-scroll-proportion="0.9782609" vertical-offset="351" max-vertical-offset="1206">
+        <state line="50" column="5" selection-start="647" selection-end="647" vertical-scroll-proportion="0.4347826" vertical-offset="720" max-vertical-offset="1224">
           <folding />
         </state>
       </provider>
