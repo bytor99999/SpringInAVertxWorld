@@ -43,6 +43,7 @@ ehthumbs.db
 Thumbs.db
 
 target
+.idea
 *.iml
 *.ipr
 *.iws
