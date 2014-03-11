@@ -2,6 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="079e530a-2bfe-4430-add9-e93903a06868" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/vertx_embedded_in_spring_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/vertx_embedded_in_spring_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/vertx_spring_mvc_demo_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/vertx_spring_mvc_demo_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__bytor99999_mod_spring_appcontext_1_0_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_hazelcast_hazelcast_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_testtools_2_0_1_final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_1_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="vertx-talk.iws" />
@@ -122,7 +162,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="34" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4464">
+            <state line="17" column="34" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4464">
               <folding />
             </state>
           </provider>
@@ -140,7 +180,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-in-vertx/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="23" selection-start="5449" selection-end="5449" vertical-scroll-proportion="-74.76923" vertical-offset="558" max-vertical-offset="5274">
+            <state line="139" column="23" selection-start="5449" selection-end="5449" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="5274">
               <folding />
             </state>
           </provider>
@@ -149,7 +189,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="0" selection-start="4060" selection-end="4318" vertical-scroll-proportion="-76.15385" vertical-offset="72" max-vertical-offset="3024">
+            <state line="114" column="0" selection-start="4060" selection-end="4318" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="3024">
               <folding />
             </state>
           </provider>
@@ -212,7 +252,7 @@
       <file leaf-file-name="VertxConfiguration.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="36" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+            <state line="23" column="36" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -1036,7 +1076,8 @@
       <updated>1393722939522</updated>
       <workItem from="1393722942755" duration="38036000" />
       <workItem from="1394052877162" duration="13763000" />
-      <workItem from="1394150284515" duration="7331000" />
+      <workItem from="1394150284515" duration="7273000" />
+      <workItem from="1394538722087" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="Commit of many changes so I don't lose them">
       <created>1393877650930</created>
@@ -1074,15 +1115,11 @@
       <created>1394538389492</created>
       <updated>1394538389492</updated>
     </task>
-    <task id="LOCAL-00010" summary="Removing the .idea directory from Git">
-      <created>1394538611900</created>
-      <updated>1394538611900</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59130000" />
+    <option name="totallyTimeSpent" value="59146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
@@ -1093,7 +1130,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47130242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7571744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1103,12 +1139,11 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1892552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31236205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1116,6 +1151,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7571744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1140,8 +1177,7 @@
     <MESSAGE value="Deleting files that should have been there." />
     <MESSAGE value="Deleting files that should have been there.&#10;" />
     <MESSAGE value="Trying out more cluster.xml stuff to try to get it to work. No luck yet. Also target directories were getting checked in. This deletes them, but I think the .gitignore is being ignored" />
-    <MESSAGE value="Removing the .idea directory from Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing the .idea directory from Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying out more cluster.xml stuff to try to get it to work. No luck yet. Also target directories were getting checked in. This deletes them, but I think the .gitignore is being ignored" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1202,9 +1238,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="84" selection-start="640" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="6" column="84" selection-start="640" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/perfectworldprogramming/configuration/VertxConfiguration.java">
@@ -1216,9 +1250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/resources/META-INF/spring/spring-in-vertx-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="11" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/crossdomain.xml">
@@ -1230,16 +1262,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/chat-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="106" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-5.04" vertical-offset="0" max-vertical-offset="648">
-          <folding />
-        </state>
+        <state line="7" column="106" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-5.04" vertical-offset="0" max-vertical-offset="648" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="18" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
-          <folding />
-        </state>
+        <state line="50" column="18" selection-start="1760" selection-end="1760" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/nav/navigation.jsp">
@@ -1259,9 +1287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/assembly/mod.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.38952163" vertical-offset="0" max-vertical-offset="878">
-          <folding />
-        </state>
+        <state line="19" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="0.38952163" vertical-offset="0" max-vertical-offset="878" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/testtools/2.0.1-final/testtools-2.0.1-final.jar!/org/vertx/testtools/TestVerticle.class">
@@ -1306,16 +1332,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/resources/mod.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="48" selection-start="74" selection-end="74" vertical-scroll-proportion="0.11513859" vertical-offset="0" max-vertical-offset="469">
-          <folding />
-        </state>
+        <state line="3" column="48" selection-start="74" selection-end="74" vertical-scroll-proportion="0.11513859" vertical-offset="0" max-vertical-offset="469" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/resources/META-INF/spring/spring-in-vertx-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.36330274" vertical-offset="0" max-vertical-offset="545">
-          <folding />
-        </state>
+        <state line="11" column="8" selection-start="724" selection-end="724" vertical-scroll-proportion="0.36330274" vertical-offset="0" max-vertical-offset="545" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/views/headers.jsp">
@@ -1330,9 +1352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/src/main/webapp/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="84" selection-start="640" selection-end="716" vertical-scroll-proportion="0.19889502" vertical-offset="0" max-vertical-offset="543">
-          <folding />
-        </state>
+        <state line="6" column="84" selection-start="640" selection-end="716" vertical-scroll-proportion="0.19889502" vertical-offset="0" max-vertical-offset="543" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/2.0.1-final/vertx-core-2.0.1-final.jar!/org/vertx/java/core/impl/DefaultVertx.class">
@@ -1349,9 +1369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/resources/conf/spring.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../mod-spring-appcontext/src/main/java/com/perfectworldprogramming/mod/spring/app/context/SpringApplicationContextHolder.java">
@@ -1419,14 +1437,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="0" selection-start="4060" selection-end="4318" vertical-scroll-proportion="-76.15385" vertical-offset="72" max-vertical-offset="3024">
+        <state line="114" column="0" selection-start="4060" selection-end="4318" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="3024">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="23" selection-start="5449" selection-end="5449" vertical-scroll-proportion="-74.76923" vertical-offset="558" max-vertical-offset="5274">
+        <state line="139" column="23" selection-start="5449" selection-end="5449" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="5274">
           <folding />
         </state>
       </provider>
@@ -1440,9 +1458,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/hazelcast/hazelcast/2.6/hazelcast-2.6.jar!/hazelcast-config-2.3.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21132">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21132" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertx-embedded-in-spring/pom.xml">
@@ -1462,6 +1478,13 @@
     <entry file="file://$PROJECT_DIR$/spring-in-vertx/src/main/resources/cluster.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2502">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30492">
           <folding />
         </state>
       </provider>
