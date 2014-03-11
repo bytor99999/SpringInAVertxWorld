@@ -19,7 +19,7 @@ public class VertxConfiguration {
 
     @Bean
     public Vertx vertx() {
-        final String hostname = "localhost";
+        final String hostname = "127.0.0.1";
         //final Integer port = 5454;
         try {
             return VertxFactory.newVertx(hostname);
