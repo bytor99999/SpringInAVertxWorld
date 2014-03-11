@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<!-- http://www.foo.com/crossdomain.xml -->
-<cross-domain-policy>
-  <allow-access-from domain="*" to-ports="*"/>
-</cross-domain-policy>

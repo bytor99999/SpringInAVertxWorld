@@ -161,6 +161,14 @@
             <scope>test</scope>
         </dependency>
 
+
+        <dependency>
+            <groupId>com.hazelcast</groupId>
+            <artifactId>hazelcast</artifactId>
+            <version>${hazelcast.version}</version>
+            <scope>compile</scope>
+        </dependency>
+
         <!-- Vert.x jars to be included-->
         <dependency>
             <groupId>io.vertx</groupId>
