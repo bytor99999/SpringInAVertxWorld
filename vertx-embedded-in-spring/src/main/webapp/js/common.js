@@ -16,7 +16,7 @@ var chat = {
     sock: null,
 
     receiveChatMessage: function (data) {
-        document.getElementById('chatTextArea').value += JSON.stringify(data.data, null, 2);
+        document.getElementById('chatTextArea').value += data.data;
     },
 
     sendChatMessage: function() {
@@ -51,12 +51,8 @@ var chat = {
         chat.sock.onopen = function() {};
 
         this.sock.onmessage = this.receiveChatMessage.bind(this);
-        //chat.sock.onmessage = function(e) {
-        //    chat.receiveChatMessage(e);
-        //};
 
         chat.sock.onclose = function() {
-            //alert("onclose was called");
             chat.sock = null;
         };
     }

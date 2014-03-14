@@ -10,8 +10,6 @@ import org.vertx.java.core.eventbus.EventBus;
 @Configuration
 public class VertxConfiguration {
 
-    @Autowired
-
     @Bean
     public EventBus eventBus() {
         return vertx().eventBus();
@@ -21,10 +19,11 @@ public class VertxConfiguration {
     public Vertx vertx() {
         final String hostname = "127.0.0.1";
         //final Integer port = 5454;
-        try {
+        //try {
+            // This line will typically be return VertxFactory.newVertx(port, hostname)
             return VertxFactory.newVertx(hostname);
-        } catch (Exception e) {
-            return VertxFactory.newVertx(hostname);
-        }
+        //} catch (Exception e) {
+        //    return VertxFactory.newVertx(hostname);
+        //}
     }
 }

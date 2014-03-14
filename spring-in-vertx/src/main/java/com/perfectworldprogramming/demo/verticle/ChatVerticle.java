@@ -15,7 +15,6 @@ import org.vertx.java.core.json.JsonObject;
 import org.vertx.java.core.net.NetServer;
 import org.vertx.java.core.net.NetSocket;
 import org.vertx.java.core.parsetools.RecordParser;
-import org.vertx.java.core.shareddata.impl.SharedSet;
 import org.vertx.java.core.sockjs.SockJSServer;
 import org.vertx.java.core.sockjs.SockJSSocket;
 import org.vertx.java.platform.Verticle;
@@ -24,14 +23,14 @@ public class ChatVerticle extends Verticle {
 
     private EventBus eventBus;
 
-    SharedSet<String> socketIDs = new SharedSet<>();
+    private static final String SHARED_DATA_SOCKET_IDS = "socketIDs";
+    private static final String CHAT_ADDRESS = "CHAT";
 
     @Override
     public void start(Future<Void> startedResult) {
         //super.start();
 
         this.eventBus = vertx.eventBus();
-
         startNetServer(1234);
         startSockJSServer();
 
@@ -60,7 +59,6 @@ public class ChatVerticle extends Verticle {
         ChatHandler chatHandler = context.getBean(ChatHandler.class);
 
         eventBus.registerHandler(ChatService.CHAT_ADDRESS, chatHandler);
-
     }
 
     private void startNetServer(int port) {
@@ -68,14 +66,14 @@ public class ChatVerticle extends Verticle {
         netServer.connectHandler(new Handler<NetSocket>() {
             @Override
             public void handle(NetSocket socket) {
-                socketIDs.add(socket.writeHandlerID());
+                vertx.sharedData().getSet(SHARED_DATA_SOCKET_IDS).add(socket.writeHandlerID());
                 socket.dataHandler(RecordParser.newDelimited("\n", new Handler<Buffer>() {
                     public void handle(Buffer frame) {
                     String line = frame.toString().trim();
-                    sendToAllSockets(line);
+                    eventBus.send(CHAT_ADDRESS, line);
+                    //sendToAllSockets(line);
                     }
                 }));
-
             }
         });
         netServer.listen(port);
@@ -87,21 +85,17 @@ public class ChatVerticle extends Verticle {
         SockJSServer sockJSServer = vertx.createSockJSServer(httpServer);
 
         JsonObject config = new JsonObject().putString("prefix", "/chat");
-
         sockJSServer.installApp(config, new Handler<SockJSSocket>() {
-            public void handle(SockJSSocket sock) {
-                socketIDs.add(sock.writeHandlerID());
+            public void handle(final SockJSSocket sock) {
+                vertx.sharedData().getSet(SHARED_DATA_SOCKET_IDS).add(sock.writeHandlerID());
+                sock.endHandler(new Handler<Void>() {
+                    @Override
+                    public void handle(Void aVoid) {
+                        vertx.sharedData().getSet(SHARED_DATA_SOCKET_IDS).remove(sock.writeHandlerID());
+                    }
+                });
             }
         });
-
         httpServer.listen(8083);
-    }
-
-    private void sendToAllSockets(String message) {
-        message += "\n";
-        Buffer bufferMessage = new Buffer(message);
-        for (String socketID: socketIDs) {
-            eventBus.send(socketID, bufferMessage);
-        }
     }
 }

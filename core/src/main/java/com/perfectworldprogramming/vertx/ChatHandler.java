@@ -31,6 +31,7 @@ public class ChatHandler implements Handler<Message<String>>{
         String changedString = chatService.capitalize(message.body());
         SharedData data = vertx.sharedData();
         Set<String> socketIDs = data.getSet(SHARED_DATA_SOCKET_IDS);
+        changedString += "\n";
         Buffer bufferMessage = new Buffer(changedString);
         for (String socketID: socketIDs) {
             eventBus.send(socketID, bufferMessage);
