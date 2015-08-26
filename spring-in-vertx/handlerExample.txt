@@ -1,0 +1,20 @@
+class LoadAllTablePackagesActionHandler extends AbstractActionHandler<LoadAllTablePackages, AllTablePackagesResponse> {
+
+  @Autowired
+  TablePackageRepository tablePackageRepository
+
+  public LoadAllTablePackagesActionHandler() {
+    super(LoadAllTablePackages.class)
+  }
+
+  @Override
+  AllTablePackagesResponse executeAction(LoadAllTablePackages loadAllAvatarItems) {
+    List<TablePackage> allTablePackages = tablePackageRepository.retrieveAllTablePackagesWithItems()
+    return new AllTablePackagesResponse(allTablePackages)
+  }
+
+  @Override
+  List<DataServerAction> getActions() {
+    return [DataServerAction.LOAD_ALL_TABLE_PACKAGES]
+  }
+}

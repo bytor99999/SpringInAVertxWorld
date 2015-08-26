@@ -1,0 +1,37 @@
+@Override
+  public void start() {
+    JsonObject configFiles = container.config();
+
+    if (configFiles.getString("configType") == null || configFiles.getString("configType").equals("")) {
+      // This is the "production" config files.
+      configFiles = new JsonObject();
+      JsonArray xmlFilesArray = new JsonArray();
+      xmlFilesArray.add("META-INF/spring/dataserver.xml");
+      configFiles.putArray("configFiles", xmlFilesArray);
+      configFiles.putString("configType", ConfigType.XML.getValue());
+    } else {
+      //This is for the config coming in from the tests
+      configFiles = container.config();
+    }
+
+    SpringApplicationContextHolder.setVertx(vertx);
+    SpringApplicationContextHolder.createApplicationContext(configFiles);
+
+    ApplicationContext context = SpringApplicationContextHolder.getApplicationContext();
+
+    Map<String, AbstractHandler> handlers = context.getBeansOfType(AbstractHandler.class);
+    for(String key : handlers.keySet()) {
+      AbstractHandler handler = handlers.get(key);
+      for(Object action : handler.getActions()) {//groovy generics are 'we tall did'
+        registerActionHandler(((DataServerAction)action).getAction(),handler.javaHandler());
+      }
+    }
+    log.info("Registered '{}' action handlers on worker '{}'", handlers.size(), Thread.currentThread().getName());
+  }
+
+  public void registerActionHandler(String action, Handler<? extends Message> actionHandler) {
+
+    log.debug("Registering handler to process '{}' actions on worker '{}'", action, Thread.currentThread().getName());
+
+    getVertx().eventBus().registerHandler(action, actionHandler);
+  }
